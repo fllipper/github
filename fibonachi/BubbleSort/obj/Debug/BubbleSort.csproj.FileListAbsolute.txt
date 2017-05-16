@@ -1,0 +1,6 @@
+D:\Учеба\VS\C#\fibonachi\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Учеба\VS\C#\fibonachi\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Учеба\VS\C#\fibonachi\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Учеба\VS\C#\fibonachi\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Учеба\VS\C#\fibonachi\BubbleSort\obj\Debug\BubbleSort.pdb
+D:\Учеба\VS\C#\fibonachi\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache

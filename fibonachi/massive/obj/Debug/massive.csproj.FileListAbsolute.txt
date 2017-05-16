@@ -1,0 +1,6 @@
+D:\Учеба\VS\C#\fibonachi\massive\bin\Debug\massive.exe.config
+D:\Учеба\VS\C#\fibonachi\massive\bin\Debug\massive.exe
+D:\Учеба\VS\C#\fibonachi\massive\bin\Debug\massive.pdb
+D:\Учеба\VS\C#\fibonachi\massive\obj\Debug\massive.exe
+D:\Учеба\VS\C#\fibonachi\massive\obj\Debug\massive.pdb
+D:\Учеба\VS\C#\fibonachi\massive\obj\Debug\massive.csprojResolveAssemblyReference.cache

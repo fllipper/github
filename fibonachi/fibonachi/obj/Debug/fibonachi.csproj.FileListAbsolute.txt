@@ -1,0 +1,6 @@
+D:\Учеба\VS\C#\fibonachi\fibonachi\bin\Debug\fibonachi.exe.config
+D:\Учеба\VS\C#\fibonachi\fibonachi\bin\Debug\fibonachi.exe
+D:\Учеба\VS\C#\fibonachi\fibonachi\bin\Debug\fibonachi.pdb
+D:\Учеба\VS\C#\fibonachi\fibonachi\obj\Debug\fibonachi.csprojResolveAssemblyReference.cache
+D:\Учеба\VS\C#\fibonachi\fibonachi\obj\Debug\fibonachi.exe
+D:\Учеба\VS\C#\fibonachi\fibonachi\obj\Debug\fibonachi.pdb

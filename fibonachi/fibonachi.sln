@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonachi", "fibonachi\fibonachi.csproj", "{B9A1C92D-CECF-4EC1-B6E7-64E7B35EC847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massive", "massive\massive.csproj", "{F7939566-1F83-43E6-84DF-BD385D7D27F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{CC5D0A80-4752-41C3-9C1F-D7808598BDDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A1C92D-CECF-4EC1-B6E7-64E7B35EC847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A1C92D-CECF-4EC1-B6E7-64E7B35EC847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A1C92D-CECF-4EC1-B6E7-64E7B35EC847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A1C92D-CECF-4EC1-B6E7-64E7B35EC847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7939566-1F83-43E6-84DF-BD385D7D27F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7939566-1F83-43E6-84DF-BD385D7D27F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7939566-1F83-43E6-84DF-BD385D7D27F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7939566-1F83-43E6-84DF-BD385D7D27F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5D0A80-4752-41C3-9C1F-D7808598BDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5D0A80-4752-41C3-9C1F-D7808598BDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5D0A80-4752-41C3-9C1F-D7808598BDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5D0A80-4752-41C3-9C1F-D7808598BDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
